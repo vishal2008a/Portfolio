@@ -476,7 +476,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 }
 
 /* ===== Contact ===== */
-.contact-grid { grid-template-columns: repeat(3, 1fr); }
+.contact-grid { grid-template-columns: repeat(4, 1fr); }
 .contact-card { display: flex; flex-direction: column; gap: 0.35rem; padding: var(--sp-3); }
 .contact-icon {
   display: grid;
