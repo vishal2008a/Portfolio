@@ -334,7 +334,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
   width: 26px; height: 42px;
   border: 2px solid var(--border);
   border-radius: 14px;
-  display: block;
+  display: none;
   position: relative;
 }
 .wheel {
